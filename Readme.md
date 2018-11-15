@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ToolTip/Form1.cs) (VB: [Form1.vb](./VB/ToolTip/Form1.vb))
+* [Program.cs](./CS/ToolTip/Program.cs) (VB: [Program.vb](./VB/ToolTip/Program.vb))
+<!-- default file list end -->
 # How to show a ToolTip containing information about the document layout element located under the cursor position
 
 
