@@ -17,7 +17,7 @@ Use the [HitTestManager.HitTest](https://docs.devexpress.com/OfficeFileAPI/DevEx
 * [Program.cs](./CS/ToolTip/Program.cs) (VB: [Program.vb](./VB/ToolTip/Program.vb))
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=richedit-winforms-layout-element-under-cursor&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=richedit-winforms-layout-element-under-cursor&~~~was_helpful=no)
 
